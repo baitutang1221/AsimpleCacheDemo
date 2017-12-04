@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_jsonobject.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_jsonobject.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_jsonarray.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_jsonarray.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_object.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_object.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_bitmap.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_bitmap.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_string.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_string.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_drawable.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_drawable.xml"
+    },
+    {
+        "merged": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_file.xml",
+        "source": "D:\\Work\\code\\Demos\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_file.xml"
+    }
+]
